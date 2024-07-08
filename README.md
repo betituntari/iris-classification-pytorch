@@ -1,1 +1,1 @@
-# iris-classification-pytorch
+Iris classification using PyTorch
